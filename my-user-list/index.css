@@ -1,0 +1,9 @@
+#user-avatar {
+  border-radius: 100%;
+  /*   border: 1px solid black; */
+}
+
+#user-modal-image {
+  border-radius: 100%;
+  border: 1px solid black;
+}
